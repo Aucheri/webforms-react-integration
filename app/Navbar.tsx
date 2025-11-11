@@ -15,7 +15,7 @@ export default function Component() {
       <NavbarCollapse>
         <NavbarLink href="/">Home</NavbarLink>
         <NavbarLink href="/login">Login</NavbarLink>
-        <NavbarLink href="/claims">Claims</NavbarLink>
+        <NavbarLink href="/profile">View Profile</NavbarLink>
       </NavbarCollapse>
     </Navbar>
   );
